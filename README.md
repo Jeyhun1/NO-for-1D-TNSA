@@ -21,4 +21,4 @@ All models use FNO framework that can be found here:
 ```
 https://github.com/zongyi-li/fourier_neural_operator.git
 ```
-
+Plots for all test data for each method can be found in ```plots``` folder
